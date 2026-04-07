@@ -1,0 +1,26 @@
+# Existing
+.gradle
+bin
+Reports
+Libs
+output
+!output/.gitkeep
+build
+.classpath
+.project
+.cache
+
+# Eclipse local settings
+.settings/
+
+# Katalon runtime
+logs/
+tmp/
+Drivers/
+
+# External configs (usually local)
+settings/external/
+
+# OS junk
+.DS_Store
+Thumbs.db

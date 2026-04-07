@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>scroll_to_top_button</name>
+   <tag></tag>
+   <elementGuidId>dd6a0d09-ad33-4b16-b4b7-fba6acfa2469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-up.fa-fw.fa-1x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='to-top']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>986dd37f-c0c1-4e46-8d5a-27808779df18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-up fa-fw fa-1x</value>
+      <webElementGuid>625e9751-6d56-4587-bc83-53a4e065f82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;to-top&quot;)/i[@class=&quot;fa fa-chevron-up fa-fw fa-1x&quot;]</value>
+      <webElementGuid>0851b57c-5bc9-448b-9edd-ebdbfa95c1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='to-top']/i</value>
+      <webElementGuid>e2df5dad-1ec9-4a21-a6ea-f4cf9e0e638d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/a/i</value>
+      <webElementGuid>149c044d-2f33-495b-8b57-8c6b0b6eeeeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
