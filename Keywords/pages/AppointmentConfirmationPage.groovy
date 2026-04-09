@@ -12,6 +12,6 @@ import components.ScrollToTop
 public class AppointmentConfirmationPage {
 	@Lazy DropdownMenu dropdownMenu = new DropdownMenu()
 	@Lazy ScrollToTop scrollToTop = new ScrollToTop()
-	@Lazy TestObject confirmation_title = findTestObject('Pages/AppointmentConfirmationPage/confirmation_title')
-	@Lazy TestObject go_to_homepage_button = findTestObject('Pages/AppointmentConfirmationPage/go_to_homepage_button')
+	@Lazy TestObject confirmationTitle = findTestObject('Pages/AppointmentConfirmationPage/confirmation_title')
+	@Lazy TestObject goToHomepageButton = findTestObject('Pages/AppointmentConfirmationPage/go_to_homepage_button')
 }

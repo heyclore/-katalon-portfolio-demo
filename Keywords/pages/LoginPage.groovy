@@ -11,7 +11,8 @@ import components.ScrollToTop
 public class LoginPage {
 	@Lazy DropdownMenu dropdownMenu = new DropdownMenu()
 	@Lazy ScrollToTop scrollToTop = new ScrollToTop()
-	@Lazy TestObject login_button = findTestObject('Pages/LoginPage/login_button')
-	@Lazy TestObject password_input = findTestObject('Pages/LoginPage/password_input')
-	@Lazy TestObject username_input = findTestObject('Pages/LoginPage/username_input')
+	@Lazy TestObject loginButton = findTestObject('Pages/LoginPage/login_button')
+	@Lazy TestObject passwordInput = findTestObject('Pages/LoginPage/password_input')
+	@Lazy TestObject usernameInput = findTestObject('Pages/LoginPage/username_input')
+	@Lazy TestObject authFailedMessage = findTestObject('Pages/LoginPage/auth_failed_message')
 }
